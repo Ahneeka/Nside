@@ -8,8 +8,8 @@ function Navbar() {
         <div className='logo'>
             Nside
         </div>
-        <nav className=''>
-            <ul className=''>
+        <nav className='item'>
+            <ul className='ul'>
                 <li>
                     <Link to="/">Home</Link>
                 </li>
