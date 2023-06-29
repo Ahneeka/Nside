@@ -1,0 +1,17 @@
+.contact{
+    justify-content: center;
+    margin: 2rem;
+    display: grid;
+    flex-direction: column;
+    color: white;
+}
+
+input {
+    padding: 12px 50px;
+}
+
+button {
+    margin-top: 2rem;
+    padding: 10px ;
+    cursor: pointer;
+}
